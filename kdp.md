@@ -10,7 +10,7 @@ We'll also delve into the challenges of integrating AI technologies into telecom
 
 Whether you're a telecom professional, policy maker, or simply interested in the future of telecommunications, this book is your comprehensive guide to investigating the applications and impacts of intelligent technologies in the telecom industry. By examining the latest advancements in AI technology and their impact on telecommunications, we'll gain a better understanding of the potential for these technologies to transform the industry and the ways in which they can benefit both businesses and consumers.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
