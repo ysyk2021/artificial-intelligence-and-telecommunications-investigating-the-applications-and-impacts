@@ -1,5 +1,3 @@
-Chapter 8: Future of AI and Telecom
-===================================
 
 As the telecom industry continues to evolve, the role of AI is expected to become even more prominent. From network optimization to customer service, AI-powered systems are transforming the way that telecom companies operate and compete in the market. In this chapter, we will explore some of the emerging trends and future prospects of AI in the telecom industry.
 

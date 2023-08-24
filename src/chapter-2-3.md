@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 As we investigate the applications and impacts of intelligent technologies in the telecom industry, it is essential to understand the fundamentals of artificial intelligence (AI) and machine learning. In this chapter, we will provide an overview of the key concepts and techniques used in modern machine learning.
 

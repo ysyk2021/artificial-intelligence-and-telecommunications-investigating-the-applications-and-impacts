@@ -1,5 +1,3 @@
-Legal Framework
-=============================================================================
 
 The use of artificial intelligence (AI) in the telecommunications industry has raised numerous ethical and legal concerns. In this chapter, we will discuss the legal framework surrounding the use of AI in telecom, including regulations and laws related to data privacy and security, discrimination, transparency, and accountability.
 

@@ -1,5 +1,3 @@
-Chapter 3: Telecommunications Landscape
-=======================================
 
 Understanding the telecommunications landscape is crucial for understanding the applications and impacts of artificial intelligence (AI) in this industry. In this chapter, we will explore two key areas: global trends in telecommunications and the components of the telecom industry.
 

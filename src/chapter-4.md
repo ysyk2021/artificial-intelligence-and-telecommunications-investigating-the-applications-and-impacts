@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Telecommunications
-===========================================
 
 As we have seen throughout this book, artificial intelligence (AI) is already having a significant impact on the telecommunications industry. In this chapter, we will explore the benefits of AI in telecom, as well as the challenges and limitations that must be addressed.
 

@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Telecommunications
-===================================================================================
 
 The telecommunications industry has undergone rapid transformation in recent years, driven in large part by the integration of artificial intelligence (AI) technologies. From network optimization to customer service, AI-powered systems are transforming the way that telecommunications companies operate.
 

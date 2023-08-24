@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial intelligence (AI) has a fascinating and complex history that spans several decades. In this chapter, we will explore the origins and development of AI, from its early beginnings to its modern-day applications.
 

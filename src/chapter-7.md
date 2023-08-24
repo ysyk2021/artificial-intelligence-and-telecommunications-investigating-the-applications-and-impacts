@@ -1,5 +1,3 @@
-Chapter 7: Ethical and Legal Issues Related to AI in Telecom
-============================================================
 
 With the increasing use of artificial intelligence (AI) in the telecommunications industry, there are important ethical and legal issues that must be considered. In this chapter, we will explore two key areas: ethical considerations and the legal framework.
 

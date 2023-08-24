@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Telecom Solutions
-=======================================
 
 As we explored in previous chapters, artificial intelligence (AI) has the potential to transform the telecommunications industry. In this chapter, we will dive deeper into some of the specific AI-powered solutions that are being used in telecom.
 

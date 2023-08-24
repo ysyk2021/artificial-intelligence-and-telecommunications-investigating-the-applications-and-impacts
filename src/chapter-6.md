@@ -1,5 +1,3 @@
-Chapter 6: Economic Implications of AI in Telecom
-=================================================
 
 While the use of artificial intelligence (AI) in the telecommunications industry brings many potential benefits, it also has important economic implications. In this chapter, we will explore two key areas: cost savings and efficiency improvements, and job creation and training needs.
 
