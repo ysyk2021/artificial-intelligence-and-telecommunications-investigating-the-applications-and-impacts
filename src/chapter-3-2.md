@@ -1,5 +1,4 @@
-Chapter: Components of the Telecom Industry
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The telecommunications (telecom) industry is a complex ecosystem that encompasses various components and stakeholders working together to provide communication services. This chapter explores the key components of the telecom industry, including network infrastructure, service providers, devices, and regulations.
 

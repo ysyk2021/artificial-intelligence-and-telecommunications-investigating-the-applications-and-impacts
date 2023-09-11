@@ -1,5 +1,4 @@
-Chapter: Benefits of AI in Telecommunications
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the numerous benefits that artificial intelligence (AI) brings to the telecommunications industry. From improving operational efficiency to enhancing customer experiences, intelligent technologies have a transformative impact on the telecom sector.
 

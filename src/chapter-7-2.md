@@ -1,5 +1,4 @@
-Chapter: Legal Framework
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the rapidly evolving field of artificial intelligence (AI) and telecommunications, it is essential to establish a robust legal framework that addresses the ethical, privacy, security, and regulatory considerations associated with intelligent technologies. This chapter explores the key legal aspects that govern the applications and impacts of AI in the telecom industry. It also highlights the challenges and recommendations for ensuring compliance and responsible use of AI.
 

@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) encompasses a broad range of technologies and approaches that aim to replicate human intelligence in machines. There are different types or categories of AI, each with its own characteristics, capabilities, and applications. This chapter provides an overview of the major types of artificial intelligence.
 

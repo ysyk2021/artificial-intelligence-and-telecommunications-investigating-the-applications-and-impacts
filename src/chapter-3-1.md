@@ -1,5 +1,4 @@
-Chapter: Global Trends in Telecommunications
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significant global trends shaping the telecommunications industry. Technological advancements and changing consumer expectations are driving these trends, creating new opportunities and challenges for telecom service providers worldwide.
 

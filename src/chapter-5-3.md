@@ -1,5 +1,4 @@
-Chapter: Fraud Detection and Prevention
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Fraud has become a significant concern in the telecommunications industry, leading to financial losses and reputational damage for service providers. Fortunately, artificial intelligence (AI) offers powerful tools for fraud detection and prevention. This chapter explores the applications and impacts of intelligent technologies in combating fraud in the telecom industry.
 

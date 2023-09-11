@@ -1,5 +1,4 @@
-Chapter: Challenges and Limitations of AI in Telecommunications
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) has emerged as a transformative technology in the telecommunications industry, offering numerous benefits and opportunities. However, the implementation of AI also comes with its fair share of challenges and limitations. In this chapter, we will explore the key challenges faced by telecom companies when adopting AI and the limitations that need to be overcome for successful integration.
 

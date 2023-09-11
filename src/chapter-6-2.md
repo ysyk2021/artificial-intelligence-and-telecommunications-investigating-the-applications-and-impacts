@@ -1,5 +1,4 @@
-Chapter: Job Creation and Training Needs
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the impact of artificial intelligence (AI) on job creation and the training needs within the telecommunications industry. As intelligent technologies continue to advance, it is crucial to understand the evolving job landscape and equip employees with the necessary skills to thrive in the AI-driven telecom sector.
 

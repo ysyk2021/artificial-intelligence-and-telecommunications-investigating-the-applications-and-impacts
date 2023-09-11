@@ -1,5 +1,4 @@
-Chapter: History of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) is a field of computer science that focuses on creating intelligent machines capable of performing tasks that typically require human intelligence. The history of AI spans several decades, with significant advancements and breakthroughs contributing to its development. This chapter provides an overview of the key milestones and notable events in the history of AI.
 
